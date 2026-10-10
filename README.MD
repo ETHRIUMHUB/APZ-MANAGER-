@@ -343,7 +343,6 @@ ModuleNotFoundError: No module named 'androguard' pip install -r requirements.tx
 خطای YARA compile error مطمئن شوید قوانین YARA در پوشه‌ی rules/ معتبر هستند.
 API key missing متغیرهای محیطی مربوطه را تنظیم کنید (به بخش نصب مراجعه کنید).
 Permission denied در ویندوز برنامه را به‌عنوان Administrator اجرا کنید.
-گزارش‌های HTML نمایش داده نمی‌شوند مرورگر را به‌روز کنید یا از مرورگر دیگری استفاده کنید.
-
+گزارش‌های HTML نمایش داده نمی‌شوند مرورگر را به‌روز کنید یا از مرورگر دیگری استفح
 ---
 
